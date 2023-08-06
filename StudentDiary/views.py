@@ -7,7 +7,7 @@ from Home.decorators import student_required
 
 @student_required
 def diary(request):
-    diary=Diary.objects.all() 
+    diary=Diary.objects.filter(user=request.user)
     return render(request,'studentdiary.html',{'diary':diary})
 
 @student_required
