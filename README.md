@@ -1,6 +1,7 @@
 # TheEmpathyOasis
 
 [Link to Website](http://theempathyoasis.pythonanywhere.com/)
+
 With academic pressures, social expectations, and personal responsibilities, mental health issues have largely increased nowadays, especially among university students. However, people may find it difficult to seek help due to stigmas and other concerns. A counselling platform is essential as many people may not have access to them due to geographic location, time constraints, or cost. By providing an accessible and affordable counselling platform, more people may be encouraged to seek help and receive the support they need as the platform can provide resources and guidance to help individuals manage their mental health and reduce their mental strain. 
 
 ## What it does
